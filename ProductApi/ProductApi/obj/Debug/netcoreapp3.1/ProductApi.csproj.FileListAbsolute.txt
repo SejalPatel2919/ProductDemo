@@ -1,0 +1,146 @@
+D:\New folder\Projects\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\New folder\Projects\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\appsettings.json
+D:\New folder\Projects\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\ProductApi.exe
+D:\New folder\Projects\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\ProductApi.deps.json
+D:\New folder\Projects\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\ProductApi.runtimeconfig.json
+D:\New folder\Projects\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\ProductApi.runtimeconfig.dev.json
+D:\New folder\Projects\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\ProductApi.dll
+D:\New folder\Projects\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\ProductApi.pdb
+D:\New folder\Projects\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\New folder\Projects\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\New folder\Projects\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\New folder\Projects\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\New folder\Projects\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\New folder\Projects\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\New folder\Projects\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\New folder\Projects\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\New folder\Projects\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\New folder\Projects\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\New folder\Projects\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\New folder\Projects\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\New folder\Projects\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\New folder\Projects\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\New folder\Projects\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\New folder\Projects\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\New folder\Projects\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\New folder\Projects\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\New folder\Projects\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\New folder\Projects\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\New folder\Projects\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\New folder\Projects\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\New folder\Projects\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\New folder\Projects\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\New folder\Projects\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\New folder\Projects\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\New folder\Projects\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\New folder\Projects\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\New folder\Projects\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\New folder\Projects\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\New folder\Projects\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder\Projects\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\New folder\Projects\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder\Projects\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\New folder\Projects\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder\Projects\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\New folder\Projects\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder\Projects\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\New folder\Projects\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\New folder\Projects\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\New folder\Projects\ProductApi\ProductApi\obj\Debug\netcoreapp3.1\ProductApi.csprojAssemblyReference.cache
+D:\New folder\Projects\ProductApi\ProductApi\obj\Debug\netcoreapp3.1\ProductApi.AssemblyInfoInputs.cache
+D:\New folder\Projects\ProductApi\ProductApi\obj\Debug\netcoreapp3.1\ProductApi.AssemblyInfo.cs
+D:\New folder\Projects\ProductApi\ProductApi\obj\Debug\netcoreapp3.1\ProductApi.csproj.CoreCompileInputs.cache
+D:\New folder\Projects\ProductApi\ProductApi\obj\Debug\netcoreapp3.1\ProductApi.MvcApplicationPartsAssemblyInfo.cache
+D:\New folder\Projects\ProductApi\ProductApi\obj\Debug\netcoreapp3.1\staticwebassets\ProductApi.StaticWebAssets.Manifest.cache
+D:\New folder\Projects\ProductApi\ProductApi\obj\Debug\netcoreapp3.1\staticwebassets\ProductApi.StaticWebAssets.xml
+D:\New folder\Projects\ProductApi\ProductApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\ProductApi.styles.css
+D:\New folder\Projects\ProductApi\ProductApi\obj\Debug\netcoreapp3.1\ProductApi.RazorTargetAssemblyInfo.cache
+D:\New folder\Projects\ProductApi\ProductApi\obj\Debug\netcoreapp3.1\ProductApi.csproj.CopyComplete
+D:\New folder\Projects\ProductApi\ProductApi\obj\Debug\netcoreapp3.1\ProductApi.dll
+D:\New folder\Projects\ProductApi\ProductApi\obj\Debug\netcoreapp3.1\ProductApi.pdb
+D:\New folder\Projects\ProductApi\ProductApi\obj\Debug\netcoreapp3.1\ProductApi.genruntimeconfig.cache
+D:\New folder\Projects\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.NodeServices.dll
+D:\New folder\Projects\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.dll
+D:\New folder\Projects\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.Extensions.dll
+D:\New folder\Projects\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\New folder\Projects\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\New folder\Projects\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\New folder\Projects\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\New folder\Projects\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\New folder\Projects\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+D:\New folder\Projects\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+D:\New folder\Projects\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\New folder\Projects\ProductApi\ProductApi\obj\Debug\netcoreapp3.1\ProductApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Sejal\ProductApi\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Sejal\ProductApi\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Sejal\ProductApi\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\ProductApi.exe
+D:\Sejal\ProductApi\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\ProductApi.deps.json
+D:\Sejal\ProductApi\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\ProductApi.runtimeconfig.json
+D:\Sejal\ProductApi\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\ProductApi.runtimeconfig.dev.json
+D:\Sejal\ProductApi\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\ProductApi.dll
+D:\Sejal\ProductApi\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\ProductApi.pdb
+D:\Sejal\ProductApi\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.NodeServices.dll
+D:\Sejal\ProductApi\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.dll
+D:\Sejal\ProductApi\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.Extensions.dll
+D:\Sejal\ProductApi\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Sejal\ProductApi\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Sejal\ProductApi\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Sejal\ProductApi\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Sejal\ProductApi\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Sejal\ProductApi\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Sejal\ProductApi\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Sejal\ProductApi\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Sejal\ProductApi\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Sejal\ProductApi\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Sejal\ProductApi\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Sejal\ProductApi\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Sejal\ProductApi\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Sejal\ProductApi\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Sejal\ProductApi\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Sejal\ProductApi\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Sejal\ProductApi\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Sejal\ProductApi\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+D:\Sejal\ProductApi\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+D:\Sejal\ProductApi\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Sejal\ProductApi\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Sejal\ProductApi\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Sejal\ProductApi\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Sejal\ProductApi\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Sejal\ProductApi\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Sejal\ProductApi\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Sejal\ProductApi\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Sejal\ProductApi\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Sejal\ProductApi\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Sejal\ProductApi\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Sejal\ProductApi\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Sejal\ProductApi\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Sejal\ProductApi\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Sejal\ProductApi\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Sejal\ProductApi\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Sejal\ProductApi\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Sejal\ProductApi\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Sejal\ProductApi\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Sejal\ProductApi\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Sejal\ProductApi\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Sejal\ProductApi\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Sejal\ProductApi\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Sejal\ProductApi\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Sejal\ProductApi\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Sejal\ProductApi\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Sejal\ProductApi\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Sejal\ProductApi\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Sejal\ProductApi\ProductApi\ProductApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Sejal\ProductApi\ProductApi\ProductApi\obj\Debug\netcoreapp3.1\ProductApi.csprojAssemblyReference.cache
+D:\Sejal\ProductApi\ProductApi\ProductApi\obj\Debug\netcoreapp3.1\ProductApi.AssemblyInfoInputs.cache
+D:\Sejal\ProductApi\ProductApi\ProductApi\obj\Debug\netcoreapp3.1\ProductApi.AssemblyInfo.cs
+D:\Sejal\ProductApi\ProductApi\ProductApi\obj\Debug\netcoreapp3.1\ProductApi.csproj.CoreCompileInputs.cache
+D:\Sejal\ProductApi\ProductApi\ProductApi\obj\Debug\netcoreapp3.1\ProductApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Sejal\ProductApi\ProductApi\ProductApi\obj\Debug\netcoreapp3.1\ProductApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Sejal\ProductApi\ProductApi\ProductApi\obj\Debug\netcoreapp3.1\staticwebassets\ProductApi.StaticWebAssets.Manifest.cache
+D:\Sejal\ProductApi\ProductApi\ProductApi\obj\Debug\netcoreapp3.1\staticwebassets\ProductApi.StaticWebAssets.xml
+D:\Sejal\ProductApi\ProductApi\ProductApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\ProductApi.styles.css
+D:\Sejal\ProductApi\ProductApi\ProductApi\obj\Debug\netcoreapp3.1\ProductApi.RazorTargetAssemblyInfo.cache
+D:\Sejal\ProductApi\ProductApi\ProductApi\obj\Debug\netcoreapp3.1\ProductApi.csproj.CopyComplete
+D:\Sejal\ProductApi\ProductApi\ProductApi\obj\Debug\netcoreapp3.1\ProductApi.dll
+D:\Sejal\ProductApi\ProductApi\ProductApi\obj\Debug\netcoreapp3.1\ProductApi.pdb
+D:\Sejal\ProductApi\ProductApi\ProductApi\obj\Debug\netcoreapp3.1\ProductApi.genruntimeconfig.cache

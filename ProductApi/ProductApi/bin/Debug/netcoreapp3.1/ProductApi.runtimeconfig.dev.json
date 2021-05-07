@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\mauli\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\mauli\\.nuget\\packages"
+    ]
+  }
+}

@@ -1,0 +1,91 @@
+<div class="container">  
+    
+  <form [formGroup]="ProductForm" (ngSubmit)="this[EventValue]()">  
+      
+      <h3>Product Table CRUD Operation</h3>  
+      <div class="row">  
+           
+      <table class="table">  
+      <tr>  
+        <td style="width: 300px;">Name</td>  
+        <td style="width: 300px;">  
+          <input type="hidden" formControlName="productId">  
+          <input type="text" formControlName="productName">  
+        </td>  
+        <td style="width: 500px;">
+          <div *ngIf="submitted && ProductForm.controls.productName.errors" class="text-danger">  
+            <div *ngIf="ProductForm.controls.productName.errors.required">Name is required</div>  
+          </div>   
+        </td>  
+      </tr>  
+        
+      <tr>  
+        <td>Description</td>  
+        <td><input type="text" formControlName="productDescription">  
+        </td>  
+        <td>
+          <div *ngIf="submitted && ProductForm.controls.productDescription.errors" class="text-danger">  
+            <div *ngIf="ProductForm.controls.productDescription.errors.required">Description is required</div>  
+          </div>   
+        </td>  
+      </tr>  
+      <tr>  
+        <td>Price</td>  
+        <td>  
+          <input type="number" formControlName="productPrice"  min="0" step=".01">  
+        </td>  
+        <td>
+          <div *ngIf="submitted && ProductForm.controls.productPrice.errors" class="text-danger">  
+            <div *ngIf="ProductForm.controls.productPrice.errors.required">Price is required</div>  
+          </div>  
+        </td>
+       
+      </tr>  
+      <tr>  
+        <td>Quantity</td>  
+        <td>  
+          <input type="number" formControlName="productQuantity"  min="0">  
+        </td>  
+        <td>
+          <div *ngIf="submitted && ProductForm.controls.productQuantity.errors" class="text-danger">  
+            <div *ngIf="ProductForm.controls.productQuantity.errors.required">Quantity is required</div>  
+          </div>  
+            
+        </td>  
+      </tr>  
+      <tr>  
+    
+        <td colspan="2">  
+          <button type="submit" class="btn btn-primary">{{EventValue}}</button>  
+        </td>  
+      </tr>  
+        
+    </table>  
+    </div>  
+       
+   <div class="row">  
+    <table class="table table-striped">  
+      <tr>          
+        <td>Name</td>            
+        <td>Description</td>  
+        <td>Price</td>  
+        <td>Quantity</td>  
+        <td>Edit</td>  
+        <td>Delete</td>  
+      </tr>  
+    
+      <tr *ngFor="let d of data">  
+        <td>{{d.productId}}</td>  
+        <td>{{d.productName}}</td>  
+         
+        <td>{{d.productDescription}}</td>  
+        <td>{{d.productPrice}}</td>  
+        <td>{{d.productQuantity}}</td>  
+        <td><a (click)="EditData(d)" class="btn btn-warning">Edit</a></td>  
+        <td><a (click)="deleteData(d.productId)" class="btn btn-danger">Delete</a></td>    
+      </tr>  
+    </table>  
+  </div>  
+  </form>  
+    
+  </div>  
